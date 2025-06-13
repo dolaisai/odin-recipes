@@ -2,7 +2,7 @@
 
 ### Name: Isiah Dolan  
 ### Date Started: June 13th 2025
-### Date Completed: 
+### Date Completed: June 13th 2025 (1st Iteration)
 
 ### Project Name: Odin Recipes (from The Odin Project Foundations Course)
 
