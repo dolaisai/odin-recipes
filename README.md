@@ -8,6 +8,6 @@ Project Name: Odin Recipes (from The Odin Project Foundations Course)
 
 Project Summary: 
 
-Basic Knowledge and Skills Applies: 
+Basic Knowledge and Skills Applied: 
 
 Lessons Learned: 
