@@ -6,11 +6,17 @@
 
 ### Project Name: Odin Recipes (from The Odin Project Foundations Course)
 
-### Project Summary:  
+### Project Summary: 
+- Create a recipe hub that contains a homepage and recipes linked to it. The homepage will have an unordered list of recipes. The recipe pages will have all of the information needed to recreate the dish along with a picture of what it looks like. The recipe pages will have a reference link back to the homepage. 
 
-### Basic Knowledge and Skills Applied:  
+### Basic Knowledge and Skills Applied: 
+- Absolute and Reference links
+- Ordered and unordered lists
+- Basic boilerplate html setup
+- File structure knowledge
 
 ### Lessons Learned:  
+- Other than the knowledge within Odin Foundations, I learned a lot about formatting a README.md file. I know this will be useful going forward! 
 
 ### External Sources Used: 
 
