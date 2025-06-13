@@ -11,3 +11,8 @@ Project Summary:
 Basic Knowledge and Skills Applied: 
 
 Lessons Learned: 
+
+External Sources Used: 
+    1. Mancakes Recipe: https://www.allrecipes.com/recipe/238130/mancakes/
+    2. Mancakes Image: https://www.allrecipes.com/thmb/1gaEkjWzP7lwNzbpjh_P7V6fBV4=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-238130-mancakes-VAT-4x3-A-1f28df04837244ebb9b1ad80bf2de934.jpg
+    3. 
